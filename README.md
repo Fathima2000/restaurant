@@ -1,6 +1,7 @@
-Personal Portfolio Complete Website using only Html Css Javascript
+Restaurant Project
 
 This project consists of :
+
 1)Coding the Navigation Bar of Site
 	Coding basics of Navbar Header
 	Coding button for future collapsible menu
